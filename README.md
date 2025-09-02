@@ -1,7 +1,7 @@
 # My First Repository 🚀
 
 This is my first GitHub repository.  
-I am learning how to use **Git**, **GitHub**, and **VS Code** together.
+I am learning how to use **Git** and **GitHub** together
 
 ---
 
